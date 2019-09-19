@@ -18,7 +18,7 @@ public class Main {
      System.out.println("What is your height in inches");
      inches = keyboard.nextInt();
         meters=inches*0.0254;
-     System.out.println();
+     System.out.println(meters=inches*0.0254);
      System.out.println("What is your weight in pounds");
 
 
