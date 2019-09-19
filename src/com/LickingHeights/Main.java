@@ -20,6 +20,8 @@ public class Main {
         meters=inches*0.0254;
      System.out.println(meters=inches*0.0254);
      System.out.println("What is your weight in pounds");
+     pounds=keyboard.nextInt();
+
 
 
 
