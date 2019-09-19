@@ -23,7 +23,7 @@ public class Main {
      pounds=keyboard.nextInt();
      kg=pounds*0.453592;
      System.out.println(kg=pounds*0.453592);
-     bmi=k
+     bmi=kg/(meters*meters);
 
 
 
